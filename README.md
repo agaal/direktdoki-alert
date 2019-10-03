@@ -11,3 +11,11 @@ Raspberry PI
 # Steps
 
 sudo apt-get install python3
+sudo apt-get install python3-pip
+
+pip3 install beautifulsoup4
+pip3 install requests
+?pip3 install smtplib
+
+
+write the code
